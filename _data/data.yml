@@ -16,11 +16,10 @@ sidebar:
     email: marcos.garcia.est.12@gmail.com
     phone: 640910320
     timezone: España/Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    # Include the full website URL, including "http://" or "https://".
     linkedin: alandoe
     xing: alandoe
-    github: jekyll
+    github: Xapuzas
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -39,6 +38,10 @@ sidebar:
         - idiom: Español
           level: Native
 
+      info:
+        - idiom: Inglés
+          level: B1
+
     interests:
       title: Intereses
       info:
@@ -53,11 +56,11 @@ career-profile:
     summary: |
       nigger
 education:
-    title: Education
+    title: Educación
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Grado Medio SMX
+        university: IES Benigasló
+        time: 2022-2024
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +69,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Grado Superior DAM
+        university: IES Benigasló
+        time: 2024-2026
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
